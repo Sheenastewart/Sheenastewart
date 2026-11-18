@@ -78,5 +78,5 @@ https://linkedin.com/in/sheena-stewart-421739189
 **Portfolio**  
 Coming Soon
 
-**Email**  
-SheenaStewart92@yahoo.com
+**Website**  
+https://sheenastewart.com
