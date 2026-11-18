@@ -1,6 +1,6 @@
 # Sheena Stewart
 
-Software Engineer with over 10 years of technical experience in telecommunications, networking, electronic security, and technical support. AWS Certified Cloud Practitioner and graduate of Western Governors University with a Bachelor of Science in Software Engineering. Passionate about designing reliable software solutions, solving complex technical problems, and building applications that deliver meaningful value.
+Software Engineering graduate and AWS Certified Cloud Practitioner with 10+ years of technical experience in low-voltage electrical systems, electronics, telecommunications, networking, and technical support. Experienced in hands-on installation, wiring, diagnostics, and repair of access control, surveillance, intercom, and security systems. Skilled in electrical troubleshooting, multimeter testing, circuit diagnostics, and software development using Java, Python, SQL, and Git.
 
 ---
 
