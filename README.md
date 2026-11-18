@@ -10,7 +10,6 @@ Software Engineering graduate and AWS Certified Cloud Practitioner with 10+ year
 - ☁️ AWS Certified Cloud Practitioner
 - 💻 Java • Spring Boot • JavaScript • Python • SQL
 - 📍 Huntsville, Alabama
-- 🚀 Interested in backend development, cloud technologies, and full-stack application development
 
 ---
 
@@ -60,7 +59,7 @@ As a Software Engineer, I enjoy developing applications with Java, Python, JavaS
 
 **Western Governors University**  
 Bachelor of Science, Software Engineering  
-Graduated: July 2026
+Graduated: August 2026
 
 ---
 
